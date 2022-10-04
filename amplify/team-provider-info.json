@@ -24,6 +24,11 @@
       "StackName": "amplify-agility-develop-154635",
       "StackId": "arn:aws:cloudformation:us-east-1:544557855219:stack/amplify-agility-develop-154635/41bf4d70-441d-11ed-b7a6-0aa3f9e5a307",
       "AmplifyAppId": "d3o9gv0x14t74t"
+    },
+    "categories": {
+      "auth": {
+        "agility856468fb": {}
+      }
     }
   }
 }
