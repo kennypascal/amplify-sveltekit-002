@@ -1,0 +1,12 @@
+{
+  "name": "amplify-sveltekit-template",
+  "version": "1.0.0",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "dependencies": {
+    "workspaces": "^0.1.0"
+  }
+}
