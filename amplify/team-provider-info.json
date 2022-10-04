@@ -11,5 +11,19 @@
       "StackId": "arn:aws:cloudformation:us-east-1:410957590075:stack/amplify-agility-staging-185908/3fb3bea0-5ea2-11ec-b673-0a45133a997f",
       "AmplifyAppId": "d3w4d4b9lejml1"
     }
+  },
+  "develop": {
+    "awscloudformation": {
+      "PermissionsBoundaryPolicyArn": "arn:aws:iam::544557855219:policy/DeveloperAccessPermissionBoundary",
+      "AuthRoleName": "amplify-agility-develop-154635-authRole",
+      "UnauthRoleArn": "arn:aws:iam::544557855219:role/amplify-agility-develop-154635-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::544557855219:role/amplify-agility-develop-154635-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-agility-develop-154635-deployment",
+      "UnauthRoleName": "amplify-agility-develop-154635-unauthRole",
+      "StackName": "amplify-agility-develop-154635",
+      "StackId": "arn:aws:cloudformation:us-east-1:544557855219:stack/amplify-agility-develop-154635/41bf4d70-441d-11ed-b7a6-0aa3f9e5a307",
+      "AmplifyAppId": "d3o9gv0x14t74t"
+    }
   }
 }
