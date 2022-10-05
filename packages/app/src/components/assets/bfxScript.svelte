@@ -1,4 +1,8 @@
 <script context="module">
+    import { Amplify } from 'aws-amplify';
+    import awsExports from 'aws-exports';
+    Amplify.configure({ ...awsExports, ssr: true });
+
     import { credentials, VITE_BASE_URL } from '@stores/api/creds';
     export const {
         VITE_BORDERFREE_API_KEY,
@@ -87,7 +91,7 @@
         margin: 8px;
         padding: 0;
     }
-    
+
     #bfx-cc-wrapper.bfx-cc-position-top {
         width: auto;
         z-index: 1;
@@ -426,7 +430,7 @@
         #bfx-cc-wrapper .bfx-cc-expanded .bfx-cc-content {
             padding: 50px 15px 30px;
         }
-        
+
         #bfx-cc-wrapper .bfx-cc-expanded {
             left: 50%;
             top: 50%;
@@ -450,7 +454,7 @@
             transform: scale(0.75);
         }
 
-         #bfx-cc-wrapper span {
+        #bfx-cc-wrapper span {
             border: 0;
             font: inherit;
             letter-spacing: 0;
@@ -465,7 +469,7 @@
             height: 24px;
             background-position: 0 32.519652461729414%;
             background: url("data:image/svg+xml,%3Csvg width='26' height='26' viewBox='0 0 26 26' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M24.5 1.5L1.5 24.5' stroke='%23212427' stroke-width='2'/%3E%3Cpath d='M1.5 1.5L24.5 24.5' stroke='%23212427' stroke-width='2'/%3E%3C/svg%3E")
-            no-repeat !important;
+                no-repeat !important;
         }
     }
 </style>

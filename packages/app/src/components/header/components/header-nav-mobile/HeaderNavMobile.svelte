@@ -1,4 +1,8 @@
 <script context="module">
+    import { Amplify } from 'aws-amplify';
+    import awsExports from 'aws-exports';
+    Amplify.configure({ ...awsExports, ssr: true });
+
     import { session } from '$app/stores';
     import Icon from '@ui/icon/Icon.svelte';
 </script>

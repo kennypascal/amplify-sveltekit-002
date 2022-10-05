@@ -1,3 +1,7 @@
+import { Amplify } from 'aws-amplify';
+import awsExports from 'aws-exports';
+Amplify.configure({ ...awsExports, ssr: true });
+
 import { CommerceSdk } from '@stores/api/CommerceSdk';
 import { sequence } from '@sveltejs/kit/hooks';
 import cookie from 'cookie';
