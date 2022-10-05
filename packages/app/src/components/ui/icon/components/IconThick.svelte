@@ -1,0 +1,15 @@
+<svg
+    width="28"
+    height="28"
+    viewBox="0 0 28 28"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    {...$$restProps}
+>
+    <path
+        fill-rule="evenodd"
+        clip-rule="evenodd"
+        d="M11.9463 25.259L2.14453 14.876L5.75428 11.543L11.4775 17.5152L21.9115 2.78223L25.8963 5.66073L11.9463 25.259Z"
+        fill="#686868"
+    />
+</svg>

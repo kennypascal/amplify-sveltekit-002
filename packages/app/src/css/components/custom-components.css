@@ -1,0 +1,33 @@
+@layer components {
+    @media (hover: hover) {
+        .btn-icon:hover:not(:disabled, .search-input-submit-btn) {
+            svg {
+                filter: brightness(0) saturate(100%) invert(28%) sepia(47%)
+                    saturate(1972%) hue-rotate(151deg) brightness(89%)
+                    contrast(101%) !important;
+            }
+        }
+
+        .btn-text:hover:not(:disabled),
+        .btn-icon-text:hover:not(:disabled) {
+            span {
+                text-decoration: underline;
+            }
+        }
+
+        .link-icon:hover:not(:disabled) {
+            svg {
+                filter: brightness(0) saturate(100%) invert(28%) sepia(47%)
+                    saturate(1972%) hue-rotate(151deg) brightness(89%)
+                    contrast(101%) !important;
+            }
+        }
+
+        .link-text:hover:not(:disabled),
+        .link-icon-text:hover:not(:disabled) {
+            span {
+                text-decoration: underline;
+            }
+        }
+    }
+}

@@ -1,19 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<meta name="description" content="" />
-		<link rel="icon" href="/favicon.png" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		%svelte.head%
-    <script>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="format-detection" content="telephone=no" />
+        <link
+            rel="icon"
+            type="image/png"
+            href="https://www.saksoff5th.com/on/demandware.static/Sites-SaksOff5th-Site/-/default/dw6de0269a/images/favicons/off5th-favicon-16x16.png"
+            sizes="16x16"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            href="https://www.saksoff5th.com/on/demandware.static/Sites-SaksOff5th-Site/-/default/dw91aacf92/images/favicons/off5th-favicon-32x32.png"
+            sizes="32x32"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            href="https://www.saksoff5th.com/on/demandware.static/Sites-SaksOff5th-Site/-/default/dwe1b326a9/images/favicons/off5th-favicon-96x96.png"
+            sizes="96x96"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            href="https://www.saksoff5th.com/on/demandware.static/Sites-SaksOff5th-Site/-/default/dw144b4d56/images/favicons/off5th-favicon-120x120.png"
+            sizes="120x120"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            href="https://www.saksoff5th.com/on/demandware.static/Sites-SaksOff5th-Site/-/default/dw0f420dd9/images/favicons/off5th-favicon-192x192.png"
+            sizes="192x192"
+        />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        %sveltekit.head%
+
+        <script>
 			// temporary workaround for Amplify JS
 			window.global = window;
 			var exports = {};
 		</script>
-	</head>
-	</head>
-	<body>
-		<div id="svelte">%svelte.body%</div>
-	</body>
+    </head>
+    <body class="bfx-price-container bfx-disable-element-containter">
+        <div class="svelte-body">%sveltekit.body%</div>
+    </body>
 </html>

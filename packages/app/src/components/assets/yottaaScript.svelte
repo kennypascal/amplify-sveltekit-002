@@ -1,0 +1,9 @@
+<svelte:head>
+    <script
+        src="https://cdn.yottaa.com/rapid.min.js?key=wAU0bCXCTqUgUw"></script>
+    <script>
+        Yo.configure(
+            'https://qoe-1.yottaa.net/api/v1/configure.rapid.js?key=wAU0bCXCTqUgUw'
+        );
+    </script>
+</svelte:head>

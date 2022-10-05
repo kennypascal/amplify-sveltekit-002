@@ -1,0 +1,324 @@
+{
+    "message": {
+        "earnpoints": {
+            "today": "Earn points today!"
+        },
+        "rewardsExpiry": {
+            "today": "<span class=\"urgency-text\">today!</span>",
+            "tomorrow": "tomorrow!",
+            "indays": "in {0} days."
+        },
+        "myrewards": {
+            "value": "My Rewards ({0})",
+            "rewardsExpiry": "Expires in {0}",
+            "forfeited": "Your applied Reward(s) exceeds your subtotal. The remaining {0} of your {1} Reward will be forfeited upon checkout. Rewards cannot be applied towards gift card purchases.",
+            "notapplied": "You have a ${0} Reward!",
+            "applied": "${0} Reward Applied!",
+            "percentage": {
+                "applied": "{0} Reward Applied!"
+            }
+        }
+    },
+    "button": {
+        "myrewards": {
+            "apply": "apply",
+            "remove": "remove",
+            "applyAll": "Apply All",
+            "removeAll": "Remove All",
+            "viewAllRewards": "View All Rewards",
+            "viewLessRewards": "View Less"
+        }
+    },
+    "account": {
+        "loyalty": {
+            "membership": {
+                "show": "To redeem in stores, provide your email address to an Associate at checkout or to redeem online, go to 'My Rewards' at checkout and apply your Reward.",
+                "message": "You have earned this reward as an OFF 5TH Rewards member. This reward is unique to your membership, and is non-transferable. Usage of this reward means that you agree to the Terms and Conditions set forth by the OFF 5TH Rewards Program. Welcome Reward cannot be used on Clearance merchandise, and cannot be used on orders shipped outside of the US or through Borderfree. This reward expires on  <mm/dd/yyyy>. Offer can only be redeemed at Saks OFF 5TH stores in the United States and saksoff5th.com, and cannot be used towards the purchase of gift cards or other services. Void where prohibited. See Program Terms and Conditions for details."
+            },
+            "dashboard": {
+                "myactivity": "My Activity",
+                "allactivity": "All Activity",
+                "transaction": "Transaction",
+                "orderamount": "Order Amount",
+                "points": "Points",
+                "back": "Back",
+                "rewardamt": "${0} Reward issued",
+                "dob": {
+                    "caption": "Birthday reward"
+                },
+                "instorepurchase": "In-Store Purchase",
+                "return": "Return",
+                "tier": "Tier",
+                "onlineorder": "Online Order",
+                "viewactivity": "View All Activity",
+                "loadmore": "Load More"
+            },
+            "eventhistory": {
+                "empty": "You haven't earned any points at this time."
+            },
+            "reward": {
+                "expiry": {
+                    "value": "Expires in {0}",
+                    "today": "Expires today."
+                },
+                "msg": "My Rewards ({0})",
+                "amount": "You have a ${0} Reward!",
+                "percetageoff": "You have a {0}"
+            },
+            "rewardpop": {
+                "expiry": "Expires in {0}",
+                "day": "day.",
+                "days": "days."
+            },
+            "status": {
+                "value": "{0} status",
+                "untill": "{0} status until {1}"
+            },
+            "welcome": {
+                "rewardmsg": "Welcome Reward!"
+            },
+            "birthday": {
+                "rewardmsg": "Birthday Reward!"
+            }
+        },
+        "noreward": {
+            "msg": "you do not have any rewards at this time."
+        },
+        "needhelp": "NEED HELP?",
+        "cheetah": {
+            "email": {
+                "text": "Your Verification Code is {0}"
+            }
+        }
+    },
+    "currency": {
+        "sign": "${0}"
+    },
+    "loyalty": {
+        "userprofile": {
+            "birthday": {
+                "title": {
+                    "message": "Like Birthday Presents?"
+                },
+                "info": {
+                    "message": "Us too! If you let us know your birthday, we'll be sure to gift you a special Birthday Reward."
+                }
+            },
+            "addbithdat": {
+                "button": "Add Birthday"
+            },
+            "enroll": {
+                "title": {
+                    "message": "Join OFF 5TH Rewards Today, It's FREE!"
+                },
+                "info": {
+                    "message": "Get 10% off today, earn 2 points for every $1 spent and more."
+                },
+                "button": "Sign Up Now"
+            },
+            "off5threward": {
+                "value": "OFF 5TH Rewards",
+                "learnmore": "Learn more about our rewards program",
+                "viewrewards": "View and track your Rewards"
+            },
+            "orderreturn": {
+                "value": "Orders & Returns",
+                "message": "Track my order and return statuses"
+            },
+            "wishlist": {
+                "message": "View all the styles you love"
+            },
+            "address": {
+                "message": "Manage my shipping addresses"
+            },
+            "payment": {
+                "message": "Save and update my billing information"
+            },
+            "profile": {
+                "message": "Edit my account profile information"
+            },
+            "store": {
+                "message": "Select My Store"
+            }
+        },
+        "order": {
+            "discount": {
+                "value": "Rewards",
+                "birth": "Birthday Reward",
+                "welcome": "Welcome Reward"
+            }
+        },
+        "account": {
+            "startShop": "Start Shopping",
+            "continue": "Continue",
+            "verify": {
+                "btntxt": "verify"
+            },
+            "nonloyalty": {
+                "register": "Sign in to enroll in the rewards program"
+            }
+        },
+        "dashboard": {
+            "rewards": {
+                "title": "OFF 5TH Rewards"
+            }
+        },
+        "tierstatus": {
+            "title": "My Tier Status",
+            "progress": "My Status Progress"
+        },
+        "incentive": {
+            "message": "Spend <b>${0}</b> before {1} to unlock {2} status!"
+        },
+        "tier": {
+            "status": {
+                "gets": {
+                    "you": "{0} status gets you:"
+                },
+                "congratulations": {
+                    "top": "Congrats! You've reached our highest status."
+                },
+                "renew": {
+                    "membership": "Spend <b>${0}</b> before {1} to unlock {2} status for another year!"
+                }
+            },
+            "viewalltier": "View All Status Benefits"
+        }
+    },
+    "verify": {
+        "account": {
+            "successimg": "success image",
+            "text": {
+                "message": "text message"
+            },
+            "email": {
+                "value": "email",
+                "cautionlink": "Verify via email instead"
+            },
+            "heading": "verify your account",
+            "loyalty": {
+                "sentence": "You need to verify your account in order to use your Rewards including the Welcome offer."
+            },
+            "choice": "How would you like to verify your account?",
+            "viatext": "verify via text message*",
+            "viaemail": "verify via email",
+            "cautiontxt": "* Message and data rates may apply.",
+            "phone": {
+                "heading": "verify via text message",
+                "number": "(***) ***-{0}",
+                "btntxt": "verify",
+                "cautionlink": "Verify via text message instead"
+            },
+            "send": {
+                "newcode": "Send a New Code"
+            },
+            "resend": {
+                "code": "Resend Code"
+            },
+            "caution": "Didn't get the code?",
+            "sentence": "We sent a 6-digit code to:"
+        },
+        "loyalty": {
+            "success": {
+                "msg": "Your $20 OFF reward will be available to apply at checkout"
+            },
+            "account": {
+                "success": "Account Verified"
+            }
+        },
+        "its": {
+            "you": "verify it's you"
+        }
+    },
+    "link": {
+        "header": {
+            "loyalty": "Loyalty",
+            "enroll": {
+                "value": "Enroll (It's free)",
+                "today": "Join Today, It's Free!",
+                "becomeMember": "Become A Member"
+            }
+        }
+    },
+    "welcome": {
+        "loyalty": {
+            "guest": {
+                "header": "Welcome"
+            }
+        }
+    },
+    "label": {
+        "loyalty": {
+            "rewardsTobeEarned": "Points to be Earned",
+            "youGet": "You get:",
+            "points": "{0} pts"
+        },
+        "qrcode": {
+            "infomsg": "Scan this QR code at checkout when making an in-store purchase."
+        },
+        "points": {
+            "rewardsConversion": {
+                "info": "500 points = $5 reward."
+            }
+        },
+        "profile": {
+            "birthday": {
+                "header": "My Birthday"
+            },
+            "add": {
+                "birthday": "Add Birthday"
+            },
+            "addbirthday": {
+                "link": "Add Birthday"
+            }
+        },
+        "member": {
+            "id": "Member Id"
+        }
+    },
+    "my": {
+        "points": {
+            "balance": "My Points Balance"
+        }
+    },
+    "points": {
+        "balance": "Points Balance",
+        "forFiveDollarReward": "You need to reach 500 points to earn a $5 Reward.",
+        "forFiveDollarRewardOne": "You need to reach 500 points",
+        "forFiveDollarRewardTwo": "to earn a $5 Reward."
+    },
+    "instoreHeader": {
+        "off5th": "OFF5TH",
+        "reward": "Rewards",
+        "signout": "Sign out"
+    },
+    "pending": {
+        "points": {
+            "tooltip": {
+                "message": "Points will be updated to your account balance once your order ships."
+            }
+        }
+    },
+    "nonloyalty": {
+        "account": {
+            "notexist": {
+                "error": "Sorry, your email address and password don't match our records, Pleae try again"
+            },
+            "technicalerror": "Sorry, we're experiencing technical issues. Please try again."
+        }
+    },
+    "msg": {
+        "profile": {
+            "birthday": {
+                "settings": "Let us know your birthday so we can gift you a special Birthday Reward."
+            }
+        }
+    },
+    "error": {
+        "message": {
+            "save": {
+                "birthday": "Error occured while saving birthday."
+            }
+        }
+    }
+}

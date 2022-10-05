@@ -1,6 +1,10 @@
 {
   "name": "amplify-sveltekit-template",
   "version": "1.0.0",
+  "scripts": {
+    "dev:app":"npm run dev --workspace=packages/app",
+    "build:app":"npm run build --workspace=packages/app"
+  },
   "workspaces": {
     "packages": [
       "packages/*"

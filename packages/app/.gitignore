@@ -1,8 +1,15 @@
 .DS_Store
 node_modules
+coverage
 /build
 /.svelte-kit
+/build-node
+/coverage
 /package
 .env
 .env.*
 !.env.example
+
+.project
+.idea
+*.code-workspace

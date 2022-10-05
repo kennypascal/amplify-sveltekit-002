@@ -1,0 +1,28 @@
+@import '../fonts/centra-no-1.css';
+@import '../fonts/ogg.css';
+
+@layer base {
+    html {
+        @apply tw-scroll-smooth;
+    }
+
+    body {
+        @apply tw-antialiased;
+
+        font-size: 14px;
+    }
+
+    :focus-visible:not(input),
+    :focus-visible.focus-ring,
+    a:focus-visible,
+    button:focus-visible {
+        @apply !tw-outline-shadow;
+
+        outline: dashed;
+        outline-offset: 5px;
+        box-shadow: none;
+        outline-width: 1px;
+        border-radius: 0;
+        z-index: 9999;
+    }
+}

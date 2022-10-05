@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Centra No1;
+    src: url('/fonts/centrano1-bold-webfont.woff2') format('woff2'),
+        url('/fonts/centrano1-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: Centra No1;
+    src: url('/fonts/centrano1-book-webfont.woff2') format('woff2'),
+        url('/fonts/centrano1-book-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: Centra No1;
+    src: url('/fonts/centrano1-medium-webfont.woff2') format('woff2'),
+        url('/fonts/centrano1-medium-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}

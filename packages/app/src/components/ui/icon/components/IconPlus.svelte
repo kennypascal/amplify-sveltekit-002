@@ -1,0 +1,11 @@
+<svg
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    {...$$restProps}
+>
+    <line y1="12.0001" x2="24" y2="12.0001" stroke="#212427" stroke-width="2" />
+    <line x1="12.0005" y1="24" x2="12.0005" stroke="#212427" stroke-width="2" />
+</svg>

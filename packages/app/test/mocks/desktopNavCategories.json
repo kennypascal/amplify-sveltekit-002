@@ -1,0 +1,3290 @@
+[
+    {
+        "label": "Designers",
+        "categories": [
+            {
+                "label": "Shop All Designers",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/designers",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Women's Clothing",
+                "categories": [
+                    {
+                        "label": "Carolina Herrera",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=Carolina%20Herrera",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "DOLCE&GABBANA",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women?prefn1=brand&amp;prefv1=DOLCE%26GABBANA",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Herve Leger",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=Herve%20Leger",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Mac Duggal",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=Mac%20Duggal",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Marni",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=Marni",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "M Missoni",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=M%20Missoni",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Oscar de la Renta",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=Oscar%20de%20la%20Renta",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Roberto Cavalli",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/roberto-cavalli",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Versace",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=Versace",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Valentino",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=Valentino",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023833",
+                "isClickable": false,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Shoes",
+                "categories": [
+                    {
+                        "label": "Aquatalia",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=Aquatalia",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Dolce Vita",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=Dolce%20Vita",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Giuseppe Zanotti",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=Giuseppe%20Zanotti",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Karl Lagerfeld Paris",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/karl-lagerfeld-paris",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Salvatore Ferragamo",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=Salvatore%20Ferragamo",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sorel",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=Sorel",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sam Edelman",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=Sam%20Edelman",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Stuart Weitzman",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=Stuart%20Weitzman",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Valentino by Mario Valentino",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/valentino-by-mario-valentino",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Valentino Garavani",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/valentino-garavani",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Vintage Havana",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=Vintage%20Havana",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023833",
+                "isClickable": false,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Handbags",
+                "categories": [
+                    {
+                        "label": "Alexander McQueen",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=brand&amp;prefv1=Alexander%20McQueen",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "DOLCE&GABBANA",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=brand&amp;prefv1=DOLCE%26GABBANA",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Karl Lagerfeld Paris",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/karl-lagerfeld-paris",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Kate Spade New York",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=brand&amp;prefv1=Kate%20Spade%20New%20York",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Marc Jacobs",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=brand&amp;prefv1=Marc%20Jacobs",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Prada",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=brand&amp;prefv1=Prada",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Salvatore Ferragamo",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=brand&amp;prefv1=Salvatore%20Ferragamo",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Tod's",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=brand&amp;prefv1=Tod%27s",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Valentino by Mario Valentino",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/valentino-by-mario-valentino",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Valentino Garavani",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/valentino-garavani",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Vintage Louis Vuitton",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=brand&amp;prefv1=Vintage%20Louis%20Vuitton",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023833",
+                "isClickable": false,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Jewelry & Accessories",
+                "categories": [
+                    {
+                        "label": "Effy",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/effy",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Hueb",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/hueb",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "John Hardy",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories?prefn1=brand&amp;prefv1=John%20Hardy",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Ray-Ban",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/ray-ban",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Versace",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories?prefn1=brand&amp;prefv1=Versace",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023833",
+                "isClickable": false,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Beauty",
+                "categories": [
+                    {
+                        "label": "Bobbi Brown",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty?prefn1=brand&amp;prefv1=Bobbi%20Brown",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Clinique",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty?prefn1=brand&amp;prefv1=Clinique",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Dynamic Innovation Lab",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty?prefn1=brand&amp;prefv1=Dynamic%20Innovation%20Lab",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Estée Lauder",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty?prefn1=brand&amp;prefv1=Est%C3%A9e%20Lauder",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Kiehl's Since 1851",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty?prefn1=brand&amp;prefv1=Kiehl%27s%20Since%201851",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023833",
+                "isClickable": false,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Men",
+                "categories": [
+                    {
+                        "label": "Bally",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men?prefn1=brand&amp;prefv1=Bally",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Boss Hugo Boss",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men?prefn1=brand&amp;prefv1=Boss%20Hugo%20Boss",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Bruno Magli",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/bruno-magli",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Calvin Klein",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men?prefn1=brand&amp;prefv1=Calvin%20Klein",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Cole Haan",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men?prefn1=brand&amp;prefv1=Cole%20Haan",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Giuseppi Zanotti",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men?prefn1=brand&amp;prefv1=Giuseppe%20Zanotti",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Hickey Freeman",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/hickey-freeman",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Magnanni",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men?prefn1=brand&amp;prefv1=Magnanni",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Robert Graham",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/robert-graham",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Roberto Cavalli",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/roberto-cavalli",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Versace Collection",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men?prefn1=brand&amp;prefv1=Versace%20Collection",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023833",
+                "isClickable": false,
+                "columnNumber": 5,
+                "tout": {}
+            }
+        ],
+        "isClickable": true,
+        "tout": {}
+    },
+    {
+        "label": "Women",
+        "categories": [
+            {
+                "label": "Apparel",
+                "categories": [
+                    {
+                        "label": "Shop All",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Activewear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Cashmere",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Coats & Jackets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Dresses",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Formal & Evening",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Jeans",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Jumpsuits & Rompers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Lingerie",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Loungewear & Sleepwear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Pants",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Plus & Extended Sizes",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/plus-extended-sizes?prefn1=refSizeRange&amp;prefv1=Plus%20%26%20Extended%20Sizes",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Shorts",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Skirts",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sweaters",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sweatshirts & Hoodies",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Swimwear & Cover-Ups",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Tops",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Workwear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023684",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023681",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Coats & Jackets & Stuff",
+                "categories": [
+                    {
+                        "label": "Denim & Shirt Jackets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/coats-jackets/denim-shirt-jackets",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Faux Fur, Fur & Shearling",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/coats-jackets/fur--faux-fur-shearling",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Leather & Faux Leather",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/coats-jackets/leather-faux-leather",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Puffers, Parkas & Quillted",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/coats-jackets/puffers--parkas-quilted",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Rain & Trench Coats",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/coats-jackets/rain-trench-coats",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Wool & Cashmere",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/coats-jackets/wool-cashmere",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/coats-jackets",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Dresses",
+                "categories": [
+                    {
+                        "label": "Cocktail",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/dresses/cocktail",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Day & Casual",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/dresses/day-casual",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Evening",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/dresses/evening-gown",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Going Out",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/dresses/going-out",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Workwear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/dresses/workwear",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/dresses",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Featured Designers",
+                "categories": [
+                    {
+                        "label": "Eileen Fisher",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=Eileen%20Fisher",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Herve Leger",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=Herve%20Leger",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "IRO",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=IRO",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Karl Lagerfeld Paris",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/karl-lagerfeld-paris",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Lafayette 148 New York",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=Lafayette%20148%20New%20York",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Roberto Cavalli",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/roberto-cavalli",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "St. John",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=St.%20John",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "The Row",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=The%20Row",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Valentino",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=Valentino",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023681",
+                "isClickable": false,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "New & Now",
+                "categories": [
+                    {
+                        "label": "New Arrivals",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wk9-wa-new-arrivals",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Cold Weather Shop",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wa21-cw",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "The New Workwear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wa21-workleisure",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Holiday Dressing",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wk40-wa21-holiday-dressing",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Resort Shop",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/womens-new-now/the-vacation-shop",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Bridal Shop",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wa20-evergreen-bridal-shop",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023681",
+                "isClickable": false,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "This Week's Deals",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023681",
+                "isClickable": false,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Shop by Designer",
+                "categories": [
+                    {
+                        "label": "Premier Designers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=refLifestyle&amp;prefv1=Premier",
+                        "isClickable": false,
+                        "columnNumber": 2,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Contemporary Designers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=refLifestyle&amp;prefv1=Contemporary",
+                        "isClickable": false,
+                        "columnNumber": 2,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Saks Fifth Avenue Brands",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel?prefn1=brand&amp;prefv1=AVA%20%26%20AIDEN%7CPure%20Navy%7CCashmere%20Saks%20Fifth%20Avenue%7CSaks%20Fifth%20Avenue",
+                        "isClickable": true,
+                        "columnNumber": 2,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023681",
+                "isClickable": false,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Clearance Women's",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/clearance",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Gift Cards",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/content/gift-card/gift-card.html",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            }
+        ],
+        "isClickable": true,
+        "columnNumber": 4,
+        "tout": {
+            "_v": "21.3",
+            "_type": "content",
+            "id": "49_010522_WA_DESIGNER_NEW_ARRIVALS_TOUT",
+            "c_contentInnavscene7urllink": "https://image.s5a.com/is/image/saksoff5th/49_010522_WA_DESIGNER_NEW_ARRIVALS_TOUT?scl=1&fmt=webp",
+            "c_contentInnavurllink": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wk11-wa21-dfs?sre=_010521_T_WA_DESIGNER_NEW_ARRIVALS"
+        }
+    },
+    {
+        "label": "Shoes",
+        "categories": [
+            {
+                "label": "Shop By Category",
+                "categories": [
+                    {
+                        "label": "Shop All",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Athletic Shoes & Sneakers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/sneakers",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Booties",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/boots/booties",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Boots",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/boots",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Cold Weather & Rain Boots",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/boots/cold-weather-rain-boots",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Comfort",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/comfort",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Espadrilles",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/espadrilles",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Evening",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/evening",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Flats & Loafers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/flats-loafers",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Heels & Pumps",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/pumps-heels",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sandals",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/sandals",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Slides & Mules",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/slides-mules",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Slippers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/slippers",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Wedges",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/wedges",
+                        "isClickable": true,
+                        "columnNumber": 1,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1549042144829",
+                "isClickable": false,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Featured Designers",
+                "categories": [
+                    {
+                        "label": "BCBGeneration",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=BCBGeneration",
+                        "tout": {}
+                    },
+                    {
+                        "label": "Karl Lagerfeld Paris",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/karl-lagerfeld-paris",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Moschino",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=Moschino",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "roberto cavalli SPORT",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=roberto%20cavalli%20SPORT",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Salvatore Ferragamo",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=Salvatore%20Ferragamo",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sam Edelman",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=Sam%20Edelman",
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sorel",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=Sorel",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Stuart Weitzman",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=Stuart%20Weitzman",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Valentino by Mario Valentino",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/valentino-by-mario-valentino",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Valentino Garavani",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/valentino-garavani",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Vintage Havana",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=Vintage%20Havana",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1549042144829",
+                "isClickable": false,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Shop By Designer",
+                "categories": [
+                    {
+                        "label": "Premier Designers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=refLifestyle&amp;prefv1=Premier",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Contemporary Designers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=refLifestyle&amp;prefv1=Contemporary",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Saks Fifth Avenue Brands",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes?prefn1=brand&amp;prefv1=AVA%20%26%20AIDEN%7CPure%20Navy%7CRENVY%7CSaks%20Fifth%20Avenue%7CSaks%20Fifth%20Avenue%20Made%20in%20Italy",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1549042144829",
+                "isClickable": false,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Men's Shoes",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/shoes",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Kids' Shoes",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/shoes",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "New & Now",
+                "categories": [
+                    {
+                        "label": "New Arrivals",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/new-arrivals",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Trending: Lug Sole Boots",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wk31-wa21-lugsole-boots",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Bridal Shop",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wa20-evergreen-bridal-shop?prefn1=refCategory&amp;prefv1=Shoes",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Athletic Sneakers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/sneakers/athletic",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1549042144829",
+                "isClickable": false,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "This Week's Deals",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1549042144829",
+                "isClickable": false,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Clearance Shoes",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/clearance",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Gift Cards",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/content/gift-card/gift-card.html",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            }
+        ],
+        "isClickable": true,
+        "columnNumber": 4,
+        "tout": {
+            "_v": "21.3",
+            "_type": "content",
+            "id": "49_010522_END_OF_SEASON_CLEARANCE_SHOES_TOUT",
+            "c_contentInnavscene7urllink": "https://image.s5a.com/is/image/saksoff5th/49_010522_END_OF_SEASON_CLEARANCE_SHOES_TOUT?scl=1&fmt=webp",
+            "c_contentInnavurllink": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/clearance?sre=_010521_T_SHOES_CLEARANCE"
+        }
+    },
+    {
+        "label": "Handbags",
+        "categories": [
+            {
+                "label": "Shop By Category",
+                "categories": [
+                    {
+                        "label": "Shop All",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Backpacks",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/backpacks",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Belt Bags",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/belt-bags",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Bucket Bags",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/bucket-bags",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Clutches",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/clutches",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Crossbody Bags",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/crossbody-bags",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Evening Bags",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/evening-bags",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Luggage & Travel",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home/luggage-travel",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Mini Bags",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=refBagSize&amp;prefv1=Mini%7CSmall",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Satchels",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/satchels",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Shoulder Bags",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/shoulder-bags",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Straw & Beach Bags",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/beach-straw-bags",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Totes",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/totes",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Vintage Luxury Handbags",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/vintage-luxury-handbags",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Wallets & Cases",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/wallets-cases",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Weekenders & Duffels",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/weekenders-duffels",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Bag Accessories",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/bag-accessories",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1549042144830",
+                "isClickable": false,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Featured Designers",
+                "categories": [
+                    {
+                        "label": "Alexander McQueen",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=brand&amp;prefv1=Alexander%20McQueen",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Karl Lagerfeld Paris",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/karl-lagerfeld-paris",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Longchamp",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=brand&amp;prefv1=Longchamp",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Love Moschino",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=brand&amp;prefv1=Love%20Moschino",
+                        "isClickable": false,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Marc Jacobs",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=brand&amp;prefv1=Marc%20Jacobs",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Moschino",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=brand&amp;prefv1=Moschino",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Valentino by Mario Valentino",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/valentino-by-mario-valentino",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Versace Jeans Couture",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=brand&amp;prefv1=Versace%20Jeans%20Couture",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1549042144830",
+                "isClickable": false,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Men's Bags & Accessories",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/accessories/bags-leather-goods",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "New & Now",
+                "categories": [
+                    {
+                        "label": "New Arrivals",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/new-arrivals",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Bridal Shop",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wa20-evergreen-bridal-shop?prefn1=refCategory&amp;prefv1=Handbags",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Logomania",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wk28-wa20-logomania?prefn1=refCategory&amp;prefv1=Handbags",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Exotics & Animal Print",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wk35-wa21-animalprint-bags",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1549042144830",
+                "isClickable": false,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Shop by Designer",
+                "categories": [
+                    {
+                        "label": "Premier Designers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=refLifestyle&amp;prefv1=Premier",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Contemporary Designers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags?prefn1=refLifestyle&amp;prefv1=Contemporary",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Buyers Picks: Emerging Designers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wk38-wa20-emerginghb",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1549042144830",
+                "isClickable": false,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "This Week's Deals",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1549042144830",
+                "isClickable": false,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Clearance Handbags",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/clearance",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Gift Cards",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/content/gift-card/gift-card.html",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            }
+        ],
+        "isClickable": true,
+        "columnNumber": 4,
+        "tout": {
+            "_v": "21.3",
+            "_type": "content",
+            "id": "49_010522_END_OF_SEASON_CLEARANCE_HB_TOUT",
+            "c_contentInnavscene7urllink": "https://image.s5a.com/is/image/saksoff5th/49_010522_END_OF_SEASON_CLEARANCE_HB_TOUT?scl=1&fmt=webp",
+            "c_contentInnavurllink": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/clearance?sre=_010521_T_HB_CLEARANCE"
+        }
+    },
+    {
+        "label": "Jewelry & Accessories",
+        "categories": [
+            {
+                "label": "Fine & Fashion Jewelry",
+                "categories": [
+                    {
+                        "label": "Anklets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023687",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Bracelets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023687",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Earrings",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023687",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Necklaces",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023687",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Rings",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023687",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023686",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Fine Jewelry",
+                "categories": [
+                    {
+                        "label": "Anklets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1619032488203",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Bracelets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1619032488203",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Earrings",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1619032488203",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Necklaces",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1619032488203",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Rings",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1619032488203",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023686",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Watches",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023686",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Sunglasses & Opticals",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/accessories/sunglasses-opticals",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Cold Weather Accessories",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/accessories/cold-weather",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Accessories",
+                "categories": [
+                    {
+                        "label": "Bag Accessories",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/bag-accessories",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Belts",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023746",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Cashmere",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023746",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Face Masks",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023746",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Fur & Faux Fur",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023746",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Gloves",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023746",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Hats",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023746",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Scarves",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023746",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Tech & Phone Accessories",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home/tech-accessories",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Wallets & Cases",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/wallets-cases",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Wraps, Capes & Vests",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023746",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023686",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Men's Jewelry & Watches",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/jewelry-watches",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Men's Accessories",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/accessories",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Featured Designers",
+                "categories": [
+                    {
+                        "label": "Effy",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/fine-fashion-jewelry?prefn1=brand&amp;prefv1=Effy%7CEffy%20ENY%7CEffy%20Hematian",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Calvin Klein",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories?prefn1=brand&amp;prefv1=Calvin%20Klein",
+                        "tout": {}
+                    },
+                    {
+                        "label": "Hueb",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/hueb",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Saks Fifth Avenue",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/saks-fifth-avenue",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Gucci",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories?prefn1=brand&amp;prefv1=Gucci",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Dior",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories?prefn1=brand&amp;prefv1=Dior",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Karl Lagerfeld Paris",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/karl-lagerfeld-paris",
+                        "tout": {}
+                    },
+                    {
+                        "label": "Prada",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories?prefn1=brand&amp;prefv1=Prada",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Adrienne Landau",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories?prefn1=brand&amp;prefv1=Adrienne%20Landau",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Alexander McQueen",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories?prefn1=brand&amp;prefv1=Alexander%20McQueen",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "La Fiorentina",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/la-fiorentina",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023686",
+                "isClickable": false,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "This Week's Deals",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023686",
+                "isClickable": false,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "New & Now",
+                "categories": [
+                    {
+                        "label": "New Arrivals",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/new-arrivals",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Animal Jewelry",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/animal-jewelry",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Initial Jewelry",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/initial-jewelry",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Spiritual Jewelry",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/spiritual-jewelry",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023686",
+                "isClickable": false,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Clearance Jewelry",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/clearance",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Gift Cards",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/content/gift-card/gift-card.html",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Jewelry & Watch Guide",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/hidden/content/jewelry-watches-guide?sre=28_081121_Top Nav_Landing Page",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            }
+        ],
+        "isClickable": true,
+        "columnNumber": 4,
+        "tout": {
+            "_v": "21.3",
+            "_type": "content",
+            "id": "49_010522_FINE_JEWELRY_WORLD_OF_EFFY_TOUT",
+            "c_contentInnavscene7urllink": "https://image.s5a.com/is/image/saksoff5th/49_010522_FINE_JEWELRY_WORLD_OF_EFFY_TOUT?scl=1&fmt=webp",
+            "c_contentInnavurllink": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/fine-jewelry/effy?sre=_010521_T_FINE_JEWELRY_WORLD_OF_EFFY"
+        }
+    },
+    {
+        "label": "Beauty",
+        "categories": [
+            {
+                "label": "Fragrance",
+                "categories": [
+                    {
+                        "label": "Perfume",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066737",
+                        "tout": {}
+                    },
+                    {
+                        "label": "Cologne",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066737",
+                        "isClickable": false,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066736",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Skin Care",
+                "categories": [
+                    {
+                        "label": "Bath & Body",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066740",
+                        "isClickable": false,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Cleansers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066740",
+                        "isClickable": false,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Eye Creams & Treatments",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066740",
+                        "isClickable": false,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Face Oils, Serums & Essences",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066740",
+                        "isClickable": false,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Face & Sheet Masks",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066740",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Moisturizers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066740",
+                        "isClickable": false,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066736",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Value & Gift Sets",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066736",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Makeup",
+                "categories": [
+                    {
+                        "label": "Eyes",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066738",
+                        "isClickable": false,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Face",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066738",
+                        "isClickable": false,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Lips",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066738",
+                        "isClickable": false,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066736",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Tools, Brushes & Accessories",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066736",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Hair Care",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066736",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Nail Care",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066736",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Travel & Mini Sizes",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066736",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Candles & Home Scents",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home/home-decor/candles-diffusers",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Men's Grooming & Cologne",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066736",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Featured Brands",
+                "categories": [
+                    {
+                        "label": "BVLGARI",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty?prefn1=brand&amp;prefv1=BVLGARI",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Clinique",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty?prefn1=brand&amp;prefv1=Clinique",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Estée Lauder",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty?prefn1=brand&amp;prefv1=Est%C3%A9e%20Lauder",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "HERMÈS",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty?prefn1=brand&amp;prefv1=HERM%C3%88S",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Kiehl's Since 1851",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty?prefn1=brand&amp;prefv1=Kiehl%27s%20Since%201851",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "MAC",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty?prefn1=brand&amp;prefv1=MAC",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Molton Brown",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty?prefn1=brand&amp;prefv1=Molton%20Brown",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Smashbox",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty?prefn1=brand&amp;prefv1=Smashbox",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Tom Ford",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty?prefn1=brand&amp;prefv1=Tom%20Ford",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066736",
+                "isClickable": false,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "This Week's Deals",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066736",
+                "isClickable": false,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "New Arrivals",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066736",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Beauty Clearance",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty/clearance",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Gift Cards",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/content/gift-card/gift-card.html",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Bath & Body",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1536606066736",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            }
+        ],
+        "isClickable": true,
+        "columnNumber": 4,
+        "tout": {
+            "_v": "21.3",
+            "_type": "content",
+            "id": "49_010522_END_OF_SEASON_CLEARANCE_BEAUTY_TOUT",
+            "c_contentInnavscene7urllink": "https://image.s5a.com/is/image/saksoff5th/49_010522_END_OF_SEASON_CLEARANCE_BEAUTY_TOUT?scl=1&fmt=webp",
+            "c_contentInnavurllink": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty/clearance?sre=_010521_T_BEAUTY_CLEARANCE"
+        }
+    },
+    {
+        "label": "Men",
+        "categories": [
+            {
+                "label": "Apparel",
+                "categories": [
+                    {
+                        "label": "Shop All",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/apparel",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Activewear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Blazers & Sportcoats",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Cashmere",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Casual Button-Down Shirts",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Coats & Jackets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Dress Shirts",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Jeans",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Loungewear & Sleepwear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Pants",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Polos & Tees",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Shorts",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Suits & Separates",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sweaters",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sweatshirts & Hoodies",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Swimwear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Tuxedos & Formal Wear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Underwear, Socks & Sleepwear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023690",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023689",
+                "isClickable": true,
+                "tout": {}
+            },
+            {
+                "label": "Shoes",
+                "categories": [
+                    {
+                        "label": "Shop All",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/shoes",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Boots",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1509485544336",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Dress Shoes",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1509485544336",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Drivers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1509485544336",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Loafers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1509485544336",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sandals & Slides",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1509485544336",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sneakers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1509485544336",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Slippers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1509485544336",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Extended Sizes & Widths",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1509485544336",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Comfort",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1509485544336",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023689",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Jewelry & Watches",
+                "categories": [
+                    {
+                        "label": "Bracelets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023725",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Cuff Links",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023725",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Necklaces",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023725",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Rings",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023725",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Watches",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023725",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023689",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Accessories",
+                "categories": [
+                    {
+                        "label": "Shop All",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/accessories",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Bags & Leather Goods",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023890",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Belts",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023890",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Cold Weather Accessories",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023890",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Hats",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023890",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Luggage & Travel",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home/luggage-travel",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Scarves & Gloves",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023890",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Socks",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023890",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sunglasses & Opticals",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023890",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Ties & Formal Accessories",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023890",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Wallets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023890",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023689",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Grooming & Cologne",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty/men-s-grooming-cologne",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Featured Designers",
+                "categories": [
+                    {
+                        "label": "Bally",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men?prefn1=brand&amp;prefv1=Bally",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Canali",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men?prefn1=brand&amp;prefv1=Canali",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Moschino Couture!",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men?prefn1=brand&amp;prefv1=Moschino%20Couture%21",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Roberto Cavalli",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/roberto-cavalli",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Valentino Garavani",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/valentino-garavani",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Vince",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men?prefn1=brand&amp;prefv1=Vince",
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023689",
+                "isClickable": false,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "New & Now",
+                "categories": [
+                    {
+                        "label": "New Arrivals",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/new-arrivals",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Designer Shop",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/ms19-evergreen-designer-shop",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Cold Weather Shop",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/ms21-cw",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Holiday Dressing",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wk40-ms21-holiday-dressing",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Special Occasion",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wk21-ms21-special-occasion",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "The New Workwear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/ms21-workleisure",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "The Golf Shop",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/ms20-evergreen-golf-shop",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Surf & Skate Shop",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/ms21-surf-skate",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Resort Shop",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wk11-ms20-evergeen-warmweatherfavs",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023689",
+                "isClickable": false,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "This Week's Deals",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023689",
+                "isClickable": false,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Gift Cards",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/content/gift-card/gift-card.html",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Clearance Mens",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/clearance",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            }
+        ],
+        "isClickable": true,
+        "columnNumber": 4,
+        "tout": {
+            "_v": "21.3",
+            "_type": "content",
+            "id": "49_010522_MS_DESIGNER_NEW_ARRIVALS_TOUT",
+            "c_contentInnavscene7urllink": "https://image.s5a.com/is/image/saksoff5th/49_010522_MS_DESIGNER_NEW_ARRIVALS_TOUT?scl=1&fmt=webp",
+            "c_contentInnavurllink": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wk11-ms21-dfs?sre=_010521_T_MS_DESIGNER_NEW_ARRIVALS"
+        }
+    },
+    {
+        "label": "Kids",
+        "categories": [
+            {
+                "label": "Girls",
+                "categories": [
+                    {
+                        "label": "Girls (2-6X)",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023701",
+                        "isClickable": false,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Girls (7-16)",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023701",
+                        "isClickable": false,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Bottoms",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/girls?prefn1=refinementProductType&amp;prefv1=Bottoms%7CLeggings%7CShorts%7CSkirts",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Coats & Jackets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/girls?prefn1=refinementProductType&amp;prefv1=Outerwear%20%26%20Jackets",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Dresses & Rompers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/girls?prefn1=refinementProductType&amp;prefv1=Dresses%7CJumpsuits%20%26%20Rompers",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Jeans & Denim",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/girls?prefn1=refinementProductType&amp;prefv1=Jeans",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Pajamas, Undergarments & Socks",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/girls?prefn1=refinementProductType&amp;prefv1=Pajamas%7CUndergarments%7CSocks%20%26%20Hosiery",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/girls?prefn1=refinementProductType&amp;prefv1=Sets",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Shirts & Tops",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/girls?prefn1=refinementProductType&amp;prefv1=Shirts%20%26%20Polos%7CT-Shirts%7CTops",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sweaters & Sweatshirts",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/girls?prefn1=refinementProductType&amp;prefv1=Sweaters%7CSweatshirts",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Swimwear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/girls?prefn1=refinementProductType&amp;prefv1=Swim",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023698",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Boys",
+                "categories": [
+                    {
+                        "label": "Boys (2-7)",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023699",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Boys (8-20)",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023699",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Bottoms",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/boys?prefn1=refinementProductType&amp;prefv1=Bottoms%7CShorts%7CJeans",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Coats & Jackets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/boys?prefn1=refinementProductType&amp;prefv1=Outerwear%20%26%20Jackets",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Pajamas, Undergarments & Socks",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/boys?prefn1=refinementProductType&amp;prefv1=Pajamas%7CUndergarments%7CSocks%20%26%20Hosiery",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/boys?prefn1=refinementProductType&amp;prefv1=Sets",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Shirts & Tops",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/boys?prefn1=refinementProductType&amp;prefv1=Shirts%20%26%20Polos%7CT-Shirts%7CTops",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sweaters & Sweatshirts",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/boys?prefn1=refinementProductType&amp;prefv1=Sweaters%7CSweatshirts",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Swimwear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/boys?prefn1=refinementProductType&amp;prefv1=Swim",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023698",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Baby",
+                "categories": [
+                    {
+                        "label": "Baby Girls (0-24 Months)",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1473877629305",
+                        "tout": {}
+                    },
+                    {
+                        "label": "Baby Boys (0-24 Months)",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1473877629305",
+                        "tout": {}
+                    },
+                    {
+                        "label": "Baby Gifts",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1473877629305",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023698",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Shoes",
+                "categories": [
+                    {
+                        "label": "Girls",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1473877629310",
+                        "tout": {}
+                    },
+                    {
+                        "label": "Boys",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1473877629310",
+                        "tout": {}
+                    },
+                    {
+                        "label": "Baby",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1473877629310",
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023698",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Accessories",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023698",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Toys",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023698",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Room Decor",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023698",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "New & Now",
+                "categories": [
+                    {
+                        "label": "New Arrivals",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/new-arrivals",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Cold Weather Shop",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/ks21-cw",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Designer Shop",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/ks21-designer-shop",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Special Occasion Shop",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/custom/editorial-events/wk47-ks20-occasionshop",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023698",
+                "isClickable": false,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "This Week's Deals",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023698",
+                "isClickable": false,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Clearance Kids",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/clearance",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Gift Cards",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/content/gift-card/gift-card.html",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            }
+        ],
+        "isClickable": true,
+        "columnNumber": 4,
+        "tout": {
+            "_v": "21.3",
+            "_type": "content",
+            "id": "49_010522_END_OF_SEASON_CLEARANCE_KS_TOUT",
+            "c_contentInnavscene7urllink": "https://image.s5a.com/is/image/saksoff5th/49_010522_END_OF_SEASON_CLEARANCE_KS_TOUT?scl=1&fmt=webp",
+            "c_contentInnavurllink": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/clearance?sre=_010521_T_KS_CLEARANCE"
+        }
+    },
+    {
+        "label": "Home",
+        "categories": [
+            {
+                "label": "Bed & Bath",
+                "categories": [
+                    {
+                        "label": "Blankets & Throws",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1474553908123",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Duvet Covers & Comforters",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1474553908123",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Pillows",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1474553908123",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sheets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1474553908123",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Towels",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1474553908123",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Bath Accessories",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=1474553908123",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023721",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Kitchen & Dining",
+                "categories": [
+                    {
+                        "label": "Cookware & Bakeware",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023722",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Dinnerware",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023722",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Drinkware & Bar",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023722",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Flatware & Utensils",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023722",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Serveware",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023722",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023721",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Home Decor",
+                "categories": [
+                    {
+                        "label": "Area & Accent Rugs",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023758",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Books & Games",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023758",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Candles & Diffusers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023758",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Decorative Pillows & Throws",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023758",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Desk Decor & Stationery",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023758",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Frames & Wall Art",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023758",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Furniture",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023758",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Lighting",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023758",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Seasonal & Holiday Decor",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home/seasonal-holiday-decor",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Storage & Organization",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023758",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Vases, Bowls & Trays",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023758",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023721",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Kids Room Decor",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/room-decor",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Luggage & Travel",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023721",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Tech Accessories",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023721",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Fitness Accessories",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023721",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Pet Accessories",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023721",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Gourmet Foods & Candy",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023721",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Outdoor Living",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023721",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "This Week's Deals",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023721",
+                "isClickable": false,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Featured Brands",
+                "categories": [
+                    {
+                        "label": "Bey-Berk",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home?prefn1=brand&amp;prefv1=Bey-Berk",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Karl Lagerfeld Paris",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home/karl-lagerfeld-paris",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Kate Spade New York",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home?prefn1=brand&amp;prefv1=Kate%20Spade%20New%20York",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Lilly Pulitzer",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home?prefn1=brand&amp;prefv1=Lilly%20Pulitzer",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Michael Aram",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home?prefn1=brand&amp;prefv1=Michael%20Aram",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Saks Fifth Avenue",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home/saks-fifth-avenue",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Tumi",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home?prefn1=brand&amp;prefv1=TUMI",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Jill & Ally",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home?prefn1=brand&amp;prefv1=Jill%20%26%20Ally",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023721",
+                "isClickable": false,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "New Arrivals",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/search?cgid=2534374302023721",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Clearance Home",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home/clearance",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Gift Cards",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/content/gift-card/gift-card.html",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            }
+        ],
+        "isClickable": true,
+        "columnNumber": 4,
+        "tout": {
+            "_v": "21.3",
+            "_type": "content",
+            "id": "49_010522_END_OF_SEASON_CLEARANCE_HOME_TOUT",
+            "c_contentInnavscene7urllink": "https://image.s5a.com/is/image/saksoff5th/49_010522_END_OF_SEASON_CLEARANCE_HOME_TOUT?scl=1&fmt=webp",
+            "c_contentInnavurllink": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home/clearance?sre=_010521_T_HOME_CLEARANCE"
+        }
+    },
+    {
+        "label": "Clearance",
+        "categories": [
+            {
+                "label": "Shop All Clearance",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/search/clearance?cgid=root",
+                "hexColor": "#000000",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Women's Clothing",
+                "categories": [
+                    {
+                        "label": "Activewear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/activewear/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Coats & Jackets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/coats-jackets/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Dresses",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/dresses/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Formal & Evening",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/formal-evening/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Jeans",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/jeans/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Loungewear & Sleepwear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/loungewear-sleepwear/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Plus & Extended Sizes",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/plus-extended-sizes/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sweaters",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/sweaters/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Swimwear",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/swimwear-cover-ups/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Tops",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/tops/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/women/apparel/clearance",
+                "hexColor": "#000000",
+                "isClickable": true,
+                "columnNumber": 1,
+                "tout": {}
+            },
+            {
+                "label": "Shoes",
+                "categories": [
+                    {
+                        "label": "Booties",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/booties/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Boots",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/boots/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sandals",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/sandals/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Slides & Mules",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/slides-mules/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sneakers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/sneakers/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/shoes/clearance",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Handbags",
+                "categories": [
+                    {
+                        "label": "Wallets & Cases",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/wallets-cases/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Clutches",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/clutches/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Crossbody Bags",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/crossbody-bags/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Shoulder Bags",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/shoulder-bags/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Totes",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/totes/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/handbags/clearance",
+                "isClickable": true,
+                "columnNumber": 2,
+                "tout": {}
+            },
+            {
+                "label": "Jewelry & Accessories",
+                "categories": [
+                    {
+                        "label": "Accessories",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/accessories/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Fine & Fashion Jewlery",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/fine-fashion-jewelry/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sunglasses & Opticals",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/accessories/sunglasses-opticals/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/jewelry-accessories/clearance",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Men",
+                "categories": [
+                    {
+                        "label": "All Clothing",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/apparel/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "All Shoes",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/shoes/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Blazers & Sportcoats",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/apparel/blazers-sportcoats/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Button Down Shirts",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/apparel/casual-button-down-shirts/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Coats & Jackets",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/apparel/coats-jackets/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Sneakers",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/shoes/sneakers/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Suits",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/apparel/suits-separates/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/men/clearance",
+                "isClickable": true,
+                "columnNumber": 3,
+                "tout": {}
+            },
+            {
+                "label": "Beauty",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/beauty/clearance",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Kids",
+                "categories": [
+                    {
+                        "label": "Girls",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/girls/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "Boys",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/boys/clearance",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/kids/clearance",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Home",
+                "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/c/home/clearance",
+                "isClickable": true,
+                "columnNumber": 4,
+                "tout": {}
+            },
+            {
+                "label": "Shop By Price",
+                "categories": [
+                    {
+                        "label": "Under $25",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/search/clearance?cgid=root&amp;pmin=0.00&amp;pmax=25.00",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "$25-$50",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/search/clearance?cgid=root&amp;pmin=25.00&amp;pmax=50.00",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "$50-$100",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/search/clearance?cgid=root&amp;pmin=50.00&amp;pmax=100.00",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "$100-$150",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/search/clearance?cgid=root&amp;pmin=100.00&amp;pmax=150.00",
+                        "isClickable": true,
+                        "tout": {}
+                    },
+                    {
+                        "label": "$150-$200",
+                        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/search/clearance?cgid=root&amp;pmin=150.00&amp;pmax=200.00",
+                        "isClickable": true,
+                        "tout": {}
+                    }
+                ],
+                "url": "add syntax here",
+                "isClickable": false,
+                "columnNumber": 4,
+                "tout": {}
+            }
+        ],
+        "url": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/search/clearance?cgid=root",
+        "hexColor": "#AD0300",
+        "isClickable": true,
+        "columnNumber": 4,
+        "tout": {
+            "_v": "21.3",
+            "_type": "content",
+            "id": "49_010522_END_OF_SEASON_CLEARANCE_CLEARANCE_TOUT",
+            "c_contentInnavscene7urllink": "https://image.s5a.com/is/image/saksoff5th/49_010522_END_OF_SEASON_CLEARANCE_CLEARANCE_TOUT?scl=1&fmt=webp",
+            "c_contentInnavurllink": "https://bdkj-007.sandbox.us01.dx.commercecloud.salesforce.com/s/SaksOff5th/search/clearance?cgid=root&sre=_010521_T_TOTAL_CLEARANCE"
+        }
+    }
+]

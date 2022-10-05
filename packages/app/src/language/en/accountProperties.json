@@ -1,0 +1,178 @@
+{
+    "link": {
+        "header": {
+            "login": "Welcome, Sign In",
+            "username": "Welcome, {0}",
+            "profile": {
+                "value": "Profile",
+                "username": "Welcome, {0}"
+            },
+            "orderhistory": "Orders & Returns",
+            "signin": "Sign In",
+            "register": "Create an Account",
+            "storelocator": "Store Locator",
+            "logout": "Sign Out",
+            "wishlist": "Wishlist",
+            "orderstatus": "Check Order Status",
+            "loyaltyusername": "{0}",
+            "basemember": "Rewards Member",
+            "plusmember": "Rewards Plus Member",
+            "vipmember": "Rewards VIP Member",
+            "employee": "Employee"
+        },
+        "wishlist": {
+            "login": "Wishlist"
+        },
+        "termsconditions": {
+            "registration": "Terms & Conditions"
+        },
+        "payment": {
+            "makedefault": "Set as Default"
+        },
+        "delete": {
+            "value": "Delete",
+            "payment": "Delete Payment"
+        },
+        "profile": {
+            "reward": {
+                "number": "Rewards #"
+            }
+        },
+        "privacy": {
+            "link": "Privacy Policy"
+        },
+        "skip-designer": "Skip",
+        "next-designer": "Next"
+    },
+    "label": {
+        "account": {
+            "dashboard": {
+                "menu": "Account Menu",
+                "myaccount": "My Account",
+                "orderhistory": "Orders & Returns",
+                "wishlist": "Wishlist",
+                "addressbook": "Address Book",
+                "payment": "Payments",
+                "profile": "Profile",
+                "giftcard": "Gift Card Balance",
+                "checkout": {
+                    "faster": "Want to check out faster?"
+                },
+                "quicker": {
+                    "address": "Set up your address information now.",
+                    "payment": "Set up a payment method now."
+                }
+            },
+            "start": {
+                "now": "Start Now"
+            }
+        },
+        "cart": {
+            "merged": "We've added items from your previous session to your shopping bag."
+        },
+        "add": {
+            "account": "Add Your Account"
+        },
+        "payment": {
+            "otherheader": "Other Payment Methods",
+            "defaultheaders": "Default Payment",
+            "otherheaders": "Other Payments",
+            "ending": "Ending in",
+            "exp": "Exp:",
+            "makedefaultpayment": "Make this your default payment method",
+            "default": "Default"
+        },
+        "profile": {
+            "edit": {
+                "value": "Edit",
+                "header": "Edit Profile",
+                "emailpref": {
+                    "value": "Edit Email Preferences",
+                    "lang": "Preferred Language"
+                }
+            },
+            "details": {
+                "header": "Profile Details",
+                "your": {
+                    "header": "Your Profile"
+                }
+            },
+            "password": {
+                "header": "Password Settings"
+            },
+            "preference": {
+                "header": "Email Preferences"
+            },
+            "changepassword": "Edit Password"
+        },
+        "designerPage": {
+            "heading": "Follow some designers you like to shop",
+            "subheading": "You can always add more later!"
+        },
+        "addressbook": {
+            "otheraddress": "Other Addresses"
+        },
+        "header": {
+            "csr": {
+                "customer": {
+                    "no": "Customer No. {0}"
+                }
+            }
+        }
+    },
+    "apply": {
+        "success": {
+            "title": "Congratulations",
+            "msg": "A temporary SaksFirst Card has been added to your account. Please make sure to update your payment info once you receive your new card in the mail."
+        },
+        "prefill": {
+            "error": {
+                "title": "We're Sorry",
+                "msg": "The SaksFirst Card application is currently unavailable. Please try again later."
+            }
+        },
+        "pidlookup": {
+            "error": {
+                "title": "Congratulations",
+                "msg": "Your new SaksFirst Card will arrive in the mail within 14 business days. If you don’t receive it, please contact us at 800.221.8340. Unfortunately, a technical error occurred and we cannot add a temporary card to your account."
+            }
+        }
+    },
+    "msg": {
+        "cart": {
+            "merge": "Cart has been merged."
+        },
+        "profile": {
+            "password": {
+                "settings": "Make a change to your current password."
+            },
+            "preferences": {
+                "value": "You are currently not subscribed to receive any email newsletters.",
+                "edit": "You can edit your email preferences here."
+            }
+        }
+    },
+    "button": {
+        "submit": "Submit",
+        "cancel": {
+            "registration": "Cancel"
+        }
+    },
+    "error": {
+        "message": {
+            "email": {
+                "mismatch": "There is no account associated with this email address. Please try again."
+            }
+        }
+    },
+    "order": {
+        "history": {
+            "bf": {
+                "orders": {
+                    "value": "International order? Check your order status",
+                    "here": "here"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "contentSlot": [
+        {
+            "header": "Support",
+            "ariaControls": "saks-first-card",
+            "links": [
+                {
+                    "label": "Contact Us",
+                    "external": true,
+                    "href": "https://support.saksoff5th.com/s/contactsupport"
+                },
+                {
+                    "label": "Help & FAQ",
+                    "external": true,
+                    "href": "https://support.saksoff5th.com/s/"
+                },
+                {
+                    "label": "Shipping Policy",
+                    "external": false,
+                    "href": "/s/SaksOff5th/content/shipping-policy-1?lang=en_US"
+                },
+                {
+                    "label": "Returns & Exchanges",
+                    "external": false,
+                    "href": "/s/SaksOff5th/c/hidden/content/returns-exchanges?lang=en_US"
+                },
+                {
+                    "label": "Order Status & Tracking",
+                    "external": false,
+                    "href": "/s/SaksOff5th/account/order-status?lang=en_US"
+                },
+                {
+                    "label": "International Shipping",
+                    "external": false,
+                    "href": "/s/SaksOff5th/content/international?lang=en_US"
+                }
+            ]
+        },
+        {
+            "header": "Services",
+            "ariaControls": "saks-second-card",
+            "links": [
+                {
+                    "label": "Gift Cards",
+                    "external": false,
+                    "href": "/s/SaksOff5th/c/hidden/content/gift-card?lang=en_US"
+                },
+                {
+                    "label": "More! Insider Access",
+                    "external": false,
+                    "href": "/s/SaksOff5th/more%21-insider-access.html?lang=en_US"
+                },
+                {
+                    "label": "Create A More! Account",
+                    "external": false,
+                    "href": "/s/SaksOff5th/account/login?lang=en_US"
+                },
+                {
+                    "label": "Buy Online, Pick Up in Store",
+                    "external": false,
+                    "href": "/s/SaksOff5th/c/hidden/content/bopis?lang=en_US"
+                },
+                {
+                    "label": "Klarna",
+                    "external": false,
+                    "href": "/s/SaksOff5th/c/hidden/content/klarna?lang=en_US?sre=footer"
+                }
+            ]
+        },
+        {
+            "header": "SaksFirst Card",
+            "ariaControls": "saks-thrid-card",
+            "links": [
+                {
+                    "label": "About SaksFirst",
+                    "external": false,
+                    "href": "/s/SaksOff5th/saks-first?lang=en_US"
+                },
+                {
+                    "label": "Apply for the SaksFirst Store Card",
+                    "external": false,
+                    "href": "/s/SaksOff5th/saks-first?lang=en_US"
+                },
+                {
+                    "label": "Pay & Manage SaksFirst Store Card",
+                    "external": true,
+                    "href": "https://saks.capitalone.com/#/sign-in"
+                },
+                {
+                    "label": "Pay & Manage SaksFirst Mastercard",
+                    "external": true,
+                    "href": "https://saksmastercard.capitalone.com/#/sign-in"
+                }
+            ]
+        },
+        {
+            "header": "Stores & Corporate",
+            "ariaControls": "saks-fourth-card",
+            "links": [
+                {
+                    "label": "About Us",
+                    "external": false,
+                    "href": "/s/SaksOff5th/aboutus.html?lang=en_US"
+                },
+                {
+                    "label": "Store Locations & Events",
+                    "external": false,
+                    "href": "http://locations.saksoff5th.com/?"
+                },
+                {
+                    "label": "Privacy Policy",
+                    "external": false,
+                    "href": "/s/SaksOff5th/content/privacy-policy?lang=en_US"
+                },
+                {
+                    "label": "Website Terms of Use",
+                    "external": false,
+                    "href": "/s/SaksOff5th/terms-of-use.html?lang=en_US"
+                },
+                {
+                    "label": "careers-we're hiring",
+                    "external": true,
+                    "href": "https://www.careersatsaksoff5th.com/",
+                    "className": "text-accent font-bold uppercase hiring-link"
+                },
+                {
+                    "label": "Committed to Our Communities",
+                    "external": false,
+                    "href": "https://www.saksoff5th.com/c/hidden/content/charity"
+                }
+            ]
+        }
+    ],
+    "footerSocial": [
+        {
+            "label": "Instagram",
+            "icon": "instagram",
+            "iconOnly": true,
+            "href": "https://www.instagram.com/saksoff5th/"
+        },
+        {
+            "label": "Facebook",
+            "icon": "facebook",
+            "iconOnly": true,
+            "href": "https://www.facebook.com/saksoff5th"
+        },
+        {
+            "label": "Tiktok",
+            "icon": "tiktok",
+            "iconOnly": true,
+            "href": "https://www.tiktok.com/@saksoff5th"
+        },
+        {
+            "label": "LinkedIn",
+            "icon": "linkedin",
+            "iconOnly": true,
+            "href": "https://www.linkedin.com/company/saksoff5th/"
+        }
+    ],
+    "footerLegal": {
+        "label": "CA Transparency in Supply Chains Act",
+        "className": "footer-link",
+        "external": true,
+        "href": "https://www.hbc.com/vendors/vendor-guides-and-policies/california-transparency-in-supply/"
+    },
+    "footerApp": {
+        "label": "Get The Saks OFF 5TH App",
+        "className": "footer-link",
+        "external": true,
+        "href": "https://www.saksoff5th.com/c/hidden/content/off5th-app?sre=footer_app"
+    },
+    "footerFeedback": {
+        "label": "Site Feedback",
+        "className": "footer-button-link footer-link text-uppercase",
+        "variant": "text",
+        "formId": "16551"
+    },
+    "backToTop": {
+        "aria-label": "Back to top"
+    }
+}

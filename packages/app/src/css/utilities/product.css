@@ -1,0 +1,35 @@
+@layer utilities {
+    /* Product */
+
+    .tw-product-name {
+        @apply tw-font-sans tw-text-2 tw-font-normal tw-block;
+    }
+
+    .tw-product-brand {
+        @apply tw-font-sans tw-text-1 tw-uppercase tw-tracking-[1.5px] tw-font-medium tw-block;
+    }
+
+    .tw-product-price {
+        @apply tw-text-1 tw-font-bold tw-block;
+    }
+
+    .tw-product-price-cut {
+        @apply tw-text-1 tw-font-normal tw-line-through tw-block;
+    }
+
+    .tw-product-discount {
+        @apply tw-font-sans tw-text-0 tw-uppercase tw-text-dark-gray tw-block;
+
+        &::before {
+            content: '( ';
+        }
+
+        &::after {
+            content: ' )';
+        }
+    }
+
+    .tw-product-price-sale-final {
+        @apply tw-font-sans tw-text-0 tw-text-mid-gray tw-block;
+    }
+}

@@ -1,0 +1,15 @@
+@layer utilities {
+    /* Positioning */
+
+    .tw-absolute-center {
+        @apply tw-absolute tw-top-1/2 tw-left-1/2 -tw-translate-x-1/2 -tw-translate-y-1/2;
+    }
+
+    .tw-absolute-center-x {
+        @apply tw-absolute tw-left-1/2 -tw-translate-x-1/2;
+    }
+
+    .tw-absolute-center-y {
+        @apply tw-absolute tw-top-1/2 -tw-translate-y-1/2;
+    }
+}
